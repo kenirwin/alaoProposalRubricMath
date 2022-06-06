@@ -3,6 +3,7 @@ Code for averaging (etc) scores from individual sheets, plus data validation and
 Author: Ken Irwin, irwinkr@miamioh.edu
 Date: 1 April 2020
 Last Revised: 6 June 2022, kri
+Save updates to Git Repo: https://github.com/kenirwin/alaoProposalRubricMath
 
 Note: all sheets must be laid out the same. Everything relies on each cell (e.g. "R2") meaning the same thing and being averagable.
 */
